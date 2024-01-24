@@ -3,7 +3,7 @@ provider "random" {
 }
 
 resource "random_pet" "mypet" {
-  length = 6
+  length = 7
 
 }
 
